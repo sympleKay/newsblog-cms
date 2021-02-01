@@ -1,6 +1,6 @@
 //dependencies
 const mongoose = require('mongoose');
-const MONGOURI = 'mongodb://127.0.0.1:27017/news-blog';
+const MONGOURI = '';
 
 //create connection
 let openDBConnection = () => {
